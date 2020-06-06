@@ -9,7 +9,7 @@ const Footer = () => {
     <MDBFooter color="blue" className="font-small pt-4 mt-4">
       <div className="footer-copyright text-center py-3">
         <MDBContainer className="footer" fluid >
-          &copy; {new Date().getFullYear()} B_ma : Ravenous <a href="https://github.com/saiteja-bma/Ravenous"><Logo className="logo"></Logo></a> 
+          &copy; {new Date().getFullYear()} B_ma : Ravenous <a href="https://github.com/saiteja-bma/Ravenous" target="_blank"><Logo className="logo"></Logo></a> 
         </MDBContainer>
       </div>
     </MDBFooter>
