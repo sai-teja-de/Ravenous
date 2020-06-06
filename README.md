@@ -1,7 +1,7 @@
 # Ravenous
 A website built using React-js that uses Yelp.com's API to get the Businesses around you
 
-![Screenshot](src/components/App/Screenshot(40).png)
+![Screenshot](src/components/App/Screenshot.png)
 
 ### Technologies Used :
   * React-JS
